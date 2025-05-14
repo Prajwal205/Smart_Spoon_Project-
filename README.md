@@ -21,3 +21,7 @@ How to Run
 2. Train model:
 
    python section_a_ml_taste1/train_model.py
+
+3. Run the main program:
+
+   python main.py
