@@ -25,3 +25,8 @@ How to Run
 3. Run the main program:
 
    python main.py
+
+Output
+
+![image](https://github.com/user-attachments/assets/84821bcb-bfcd-4b02-9352-a18a39b11e71)
+
